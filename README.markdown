@@ -17,4 +17,4 @@ directory.
 
 In windows you may need to get a [make](gnuwin32.sourceforge.net) tool and set the path.
 
-In template, I set the chinese font as SimSun. If the font doesn't exit on your computer, replace it!
+In [template](https://github.com/chrishine/Resume/blob/master/template.latex), I set the chinese font as SimSun. If the font doesn't exit on your computer, replace it!
