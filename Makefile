@@ -15,4 +15,4 @@ html:  clean $(HTML)
 	pandoc $< --latex-engine=xelatex --template=template.latex -V papersize=a4paper -o $@
 
 clean:
-	rm -f *.html *.pdf
+	del -f *.html *.pdf
